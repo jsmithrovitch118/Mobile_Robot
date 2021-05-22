@@ -1,5 +1,5 @@
 # Mobile_Robot
-Mobile Robot controlled  via WiFi
+Mobile Robot controlled  via WiFi(VNC)
 
 keyboard_control.py file is used for controlling.
 
